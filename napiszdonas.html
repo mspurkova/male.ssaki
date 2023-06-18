@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Masz Pytania? Chcesz pomóc ulepszyć stronę aby lepiej pomóc opiekunom małych zwierząt? Proszę, napisz do nas</hi1>
-    <p>Poniżej znajduje się formularz kontaktowy do nas, wypełnij pole, a treść zostanie przesłana do nas na adres mailowy. Dziękujemy!</p>
+    <p>Poniżej znajduje się formularz kontaktowy do nas, wypełnij pole, a treść zostanie przesłana do nas na maila. Dziękujemy!</p>
     <div class="formularz">
     <form
     action="https://formsubmit.io/send/malessakikontakt@gmail.com" method="POST">
@@ -20,9 +20,23 @@
 <input
 id="mail"
 name="mail"
-@@ -37,5 +37,6 @@ <h1>Masz Pytania? Chcesz pomóc ulepszyć stronę aby lepiej pomóc opiekunom ma
+type="mail"
+placeholder="Wpisz swój adres"> <br>
+
+<label for="msg">Twoja wiadomość</label> <br>
+<textarea
+id="msg"
+name="msg"
+rows="10"
+placeholder="Wpisz wiadomość"></textarea> <br>
+<input
+name="_redirect"
+type="hidden"
+id="name"
+value="#">
 <input value="Wyślij" type="submit"></button>
     </form>
 </div>
+
 </body>
 </html>
