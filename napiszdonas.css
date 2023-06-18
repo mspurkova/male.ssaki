@@ -1,4 +1,12 @@
-.formularz {
+h1{
+    color: rgb(55, 42, 179);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 46px;
+    text-align: center;
+    margin-left: 0%;
+    }
+    
+    .formularz {
     
         background-position: center center;
         text-align: center;
@@ -51,7 +59,4 @@
     
       }  
     
-
-
-
 
