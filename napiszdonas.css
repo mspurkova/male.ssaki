@@ -1,0 +1,115 @@
+h1{
+color: rgb(196, 58, 196);
+font-family: "Times New Roman", Times, serif;
+font-size: 46px;
+text-align: center;
+margin-left: 0%;
+}
+
+.formularz {
+
+    background-position: center center;
+    text-align: center;
+    color: rgb(122, 228, 122)
+
+}
+{
+background-position: center center;
+text-align: center;
+color: rgb(122, 228, 122)
+}
+
+input {
+width: 50%;
+height: 15px;
+padding: 12px 20px;
+box-sizing:border-box;
+border: 2px solid violet;
+border-radius: 4px;
+background-color: #f8f8f8;
+resize:both;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 15px;
+
+}
+
+
+textarea {
+
+width: 50%;
+height: 150px;
+padding: 12px 20px;
+box-sizing:border-box;
+border: 2px solid violet;
+border-radius: 4px;
+background-color: #f8f8f8;
+resize:both;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+
+input[value] {
+width: 10%;
+padding: 12px 20px;
+margin: 8px;
+
+background-color: lightgreen;
+color: darkviolet;
+border-radius: 10px;
+border: 20px;
+cursor: pointer;
+padding: 20px 20px;
+
+}  
+background-position: center center;
+text-align: center;
+color: rgb(122, 228, 122)
+
+
+input {
+width: 50%;
+height: 15px;
+padding: 12px 20px;
+box-sizing:border-box;
+border: 2px solid violet;
+border-radius: 4px;
+background-color: #f8f8f8;
+resize:both;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 15px;
+
+}
+
+
+textarea {
+
+width: 50%;
+height: 150px;
+padding: 12px 20px;
+box-sizing:border-box;
+border: 2px solid violet;
+border-radius: 4px;
+background-color: #f8f8f8;
+resize:both;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+
+input[value] {
+width: 10%;
+padding: 12px 20px;
+margin: 8px;
+
+background-color: lightgreen;
+color: darkviolet;
+border-radius: 10px;
+border: 20px;
+cursor: pointer;
+padding: 20px 20px;
+
+}  
+
+
+
+
+
