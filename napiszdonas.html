@@ -28,30 +28,21 @@ id="mail"
 name="mail"
 type="mail"
 placeholder="Wpisz swój adres"> <br>
-
 <label for="msg">Twoja wiadomość</label> <br>
 <textarea
 id="msg"
 name="msg"
 rows="10"
-placeholder="Wpisz wiadomość"></textarea> <br>
+placeholder="Wpisz wiadomość"></textarea> <br><br>
 <input
 name="_redirect"
 type="hidden"
 id="name"
 value="#">
-<button class="g-recaptcha" 
-data-sitekey="reCAPTCHA_site_key" 
-data-callback='onSubmit' 
-data-action='Submit'>Wyślij wiadomość</button>
-</button>
-    </form>
-</div>
-<script>
-    function onSubmit(token) {
-      document.getElementById("demo-form").Submit();
-    }
-  </script>
+<input value=" Wyślij "  type="submit"></button>
+    
+<input value=" Zresetuj " type="reset" ></button>
+
  
 
 <footer>Male.ssaki@</footer>
